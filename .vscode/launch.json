@@ -4,6 +4,14 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Parcial-Poo-N-3-UTB_9e7f082c"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -15,8 +23,9 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "CALLBACKPARCIAL3_195d5169",
-            "vmArgs":"--module-path lib/javafx-sdk-20.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+            "projectName": "Parcial-Poo-N-3-UTB_9e7f082c",
+            "vmArgs": "--module-path lib/javafx-sdk-20.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+
         }
     ]
 }
